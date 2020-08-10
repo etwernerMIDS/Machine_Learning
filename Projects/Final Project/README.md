@@ -2,7 +2,7 @@
 
 ## Erin Werner
 
-### My Contribution
+### [My Contribution](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects/Final%20Project/marketplace_insights/rec_sys)
 
 This was a group project where we collectivly created models that would benefit both retailers and consumers. My focus was on improving the consumer experience by building a recommender system that would suggest similiar products and users.
 
