@@ -14,7 +14,7 @@ The main focus of Project 2 is topic classification. This is achieved by using b
 
 * [Project 3](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects/w207-summer-2020-project-3-etwernerMIDS-master)
 
-The main focus of Project 3 is classification through the means of dimensionality reduction. The main methods used in this example are Principle Component Analysis (PCA) and Gaussian Mixture Models (GMM). K-Means models are then trained on the reduced results in order to determine accuracy.
+The main focus of Project 3 is classification through the means of dimensionality reduction. The main methods used in this example are Principle Component Analysis (PCA) and Gaussian Mixture Models (GMM). K-Means models are then trained on the reduced results in order to optimize the hyperparameters and determine accuracy.
 
 * [Final Project](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects/Final%20Project)
 
