@@ -7,8 +7,8 @@ Machine learning (ML) is a type of artificial intelligence (AI) that allows soft
 The projects in this repository will cover different aspects within the filed of machine learning, such as 
 
 * Building a Classifier & Making Predictions:
-  * Supervised - K-NN, Naive Bayes, Linear & Logistic Regression
-  * Unsupervised - K-Means, GMM
+  * *Supervised* - K-NN, Naive Bayes, Linear & Logistic Regression
+  * *Unsupervised* - K-Means, GMM
 * Processing Text Data
   * Count Vectorization
   * TFIDF Tokenization
