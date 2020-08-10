@@ -26,4 +26,4 @@ A different approach to building a recommender system involves a step to reduce 
 
 Last, I came up with a function that returns a score by taking user u and item i as the input parameters. The function outputs a score that quantifies how strongly a user u likes/prefers item i. This is done using the ratings of other people similar to the user. In this case, the score is equal to the sum of the ratings that each similar user gave to that item, subtracted by the average rating of that user, multiplied with the weight of how similar the user is. To measure the accuracy of the result, I used the Root Mean Square Error (RMSE). You can't fix particular threshold values for RMSE. So, compared the RMSE of both test and train datasets. 
 
-*[Group Presentation Slides]*(https://docs.google.com/presentation/d/1ln0FKlLTTXQ1nCd-Q4Ot7ZrJhhrg0XdUfuA-YjJpk40/edit#slide=id.g8f23a824b8_0_1)
+*[Group Presentation Slides](https://docs.google.com/presentation/d/1ln0FKlLTTXQ1nCd-Q4Ot7ZrJhhrg0XdUfuA-YjJpk40/edit#slide=id.g8f23a824b8_0_1)*
