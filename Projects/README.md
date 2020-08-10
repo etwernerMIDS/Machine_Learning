@@ -6,7 +6,7 @@
 
 * [Project 1](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects/w207-summer-2020-project-1-etwernerMIDS-master)
 
-The main focus of Project 1 is 
+The main focus of Project 1 is MNIST digit classification with KNN and Naive Bayes. These topics are explored by optimizing the hyperparameters, testing for accuracy ...
 
 * [Project 2](https://github.com/etwernerMIDS/Machine_Learning/tree/master/Projects/w207-summer-2020-project-2-etwernerMIDS-master)
 
